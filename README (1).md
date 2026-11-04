@@ -2,7 +2,7 @@
 
 # Hi, I'm Riheb 👋
 
-**Master 2 student in Artificial Intelligence at USTO-MB, Oran 🇩🇿**
+**Master student in Artificial Intelligence at USTO-MB**
 
 *Building AI that listens, sees and speaks, and tries to make it useful for real people.*
 
@@ -19,11 +19,11 @@
 
 ## 🎓 About me
 
-- 🎓 Bachelor's in Computer Science (Computer Systems), now finishing a Master's in AI at **USTO-MB**
+- 🎓 Bachelor's in Computer Science (Computer Systems), now finishing a Master's in AI
 - 🔭 Focus areas: **NLP, speech processing, computer vision and 3D reconstruction**
 - 🧠 Also curious about **multi-agent systems** and **RAG assistants**
 - 🌍 Looking for opportunities to continue my studies in AI in Europe
-- 🗣️ Languages: Arabic, French, English (IELTS 6.5)
+- 🗣️ Languages: Arabic, French, English
 
 ## 🚀 Featured projects
 
@@ -64,9 +64,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riheb-talhi-bab320293/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhiriheb@gmail.com)
 
 *Open to collaborations on AI projects, internships and research.* ✨
 
