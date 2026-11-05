@@ -24,15 +24,15 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
-### 🎓 About me
 
+### About me
 - 🎓 Bachelor's in Computer Science (Computer Systems), now finishing a Master's in AI
 - 🔭 Focus areas: **NLP, speech processing, computer vision and 3D reconstruction**
 - 🧠 Also curious about **multi-agent systems** and **RAG assistants**
 - 🌍 Looking for opportunities to continue my studies in AI in Europe
 - 🗣️ Languages: Arabic, French, English
 
-### 📚 Currently exploring
+### Currently exploring
 
 - 🔎 Enterprise-grade **RAG assistants** (evaluation, guardrails, monitoring)
 - 🧊 3D vision: depth estimation, reconstruction, projections
@@ -44,7 +44,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riheb-talhi-bab320293/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR-USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rihebtlh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhiriheb@gmail.com)
 
 *Open to collaborations on AI projects, internships and research.* ✨
