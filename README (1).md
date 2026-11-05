@@ -3,6 +3,7 @@
 ### Hi, I'm Riheb Talhi
 **Master student in Artificial Intelligence at USTO-MB**
 *Building AI that listens, sees and speaks, and tries to make it useful for real people.*
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -29,7 +30,7 @@
 - 🎓 Bachelor's in Computer Science (Computer Systems), now finishing a Master's in AI
 - 🔭 Focus areas: **NLP, speech processing, computer vision and 3D reconstruction**
 - 🧠 Also curious about **multi-agent systems** and **RAG assistants**
-- 🌍 Looking for opportunities to continue my studies in AI in Europe
+- 🌍 Looking for opportunities to continue my studies in AI abroad
 - 🗣️ Languages: Arabic, French, English
 
 ### Currently exploring
