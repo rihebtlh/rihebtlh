@@ -24,10 +24,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
-
----
-
-## 🎓 About me
+### 🎓 About me
 
 - 🎓 Bachelor's in Computer Science (Computer Systems), now finishing a Master's in AI
 - 🔭 Focus areas: **NLP, speech processing, computer vision and 3D reconstruction**
@@ -35,39 +32,11 @@
 - 🌍 Looking for opportunities to continue my studies in AI in Europe
 - 🗣️ Languages: Arabic, French, English
 
-## 🚀 Featured projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🐣 **[Pookie AI Tutor](https://github.com/rihebtlh/Pookie-ai-tutor)** | AI tutor that helps kids learn English: chatbot, spelling corrector, pronunciation corrector and quiz | LLM, speech, mobile |
-| 🎬 **Video Auto-Dubbing** | Takes a video, transcribes it, translates it and re-voices it with a cloned voice | Whisper, local LLM, XTTS-v2, ffmpeg, Docker, Hugging Face Spaces |
-| 🧊 **3D Reconstruction** | Rebuilds a 3D mesh from a single image | MiDaS depth estimation, point clouds, trimesh, SciPy |
-
-> 💡 Add the link of each project once its repo is public.
-
-## 🛠️ Toolbox
-
-| Area | Tools |
-|---|---|
-| **Languages** | Python, SQL |
-| **NLP & Speech** | Transformers, Whisper, TF-IDF / embeddings, MFCC |
-| **Vision & Imaging** | OpenCV, scikit-image, depth estimation, filtering and morphology |
-| **Deployment** | Docker, Hugging Face Spaces, Git & GitHub |
-| **Notebooks** | Jupyter, Google Colab |
-
-## 📚 Currently exploring
+### 📚 Currently exploring
 
 - 🔎 Enterprise-grade **RAG assistants** (evaluation, guardrails, monitoring)
 - 🧊 3D vision: depth estimation, reconstruction, projections
 - 🛰️ Satellite and medical imaging (tomography, reconstruction)
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rihebtlh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihebtlh&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 📫 Let's connect
